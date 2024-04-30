@@ -1,0 +1,99 @@
+
+How can we fetch API data without using useEffect hook?
+What are the security measures which should be considered during development?
+Can we return setData inside a component?
+Multiple useEffects in a same component?
+Higher order components or custom hooks? Which approach will you follow.
+Why do we need currying in JS? Explain with example.
+Explain Array prototyping, generators.
+Explain Middlewares in React which you have used?
+Function closures and bind method difference.
+Explain service and web workers.
+Write a program to fetch real time data for a cricket/football match.
+Statess components?
+How do you fetch multiple APIs in a single time.
+Interceptors in axios library?
+React suspense?
+How will you select between SSR and CSR for you application? What parameters will you consider.
+What is A11y issues? How do you handle it?
+Box model, CSS animation, SASS variables and mixins in CSS.
+How authentication works with JWT?
+What is selective hydration?
+Crawlers, indexing a page and what are the ways?
+Explain redux architecture.
+How will you set redirects using axios library.
+Different types of object creation.
+
+Explain hoisting, TDZ.
+Explain IIFE with example.
+What is obj literal and JSON obj.
+First class functions.
+Error pages creation
+Scopes in JS
+Event Loop - Task/MicroTask Queues.
+Second Largest numb from array without using Math, sort functions.
+Synthetic events
+Cookies, localStorage and sessionStorage
+How Babel works?
+Explain webpack, parcel and some of its features.
+Challenges with react js
+Memoization techniques, pure functions and pure components.
+HTTP methods...explain
+Call, apply and bind
+Arrow functions, anonymous functions,this keyword
+ES6 features.
+Create a traingle using CSS
+Explain rate limiting and write a small code to demonstrate.
+ESLint and security plugins used in your proj?
+CORS, CSP and XSS explain
+Tree shaking, debouncing and throttling
+Write a pgrm for form validation without using any library
+Array operations
+Nested array operations, flattening of an array likewise
+Performance optimization techniques explain
+Shallow and deep copy..explain how will you create it
+Various hooks syntax useParam, useReducer, useQuery, useContext and many more
+
+1. How do you connect a component to Redux store? Which function in Redux is used to connect to store? What are the parameters in connect?
+
+
+2.What is Context API in React? Is there a need to have an initial state in Context API?
+
+
+3.What is the minimum coverage for an app? How much code do you push to production/master branch while deployment?
+
+4.Do Reducer need to have an initial state compulsorily?
+
+
+5.Will React re-render whole page or just a part of it?
+
+
+
+6.Explain Redux-Saga middleware. How do you Dispatch actions from components in Redux?
+
+
+7.What are the use cases of Service Workers?
+
+
+
+1.Implement a React component that fetches data from an API and renders it in a list/grid view. 
+  This question assesses your understanding of React component lifecycle, state management, and handling asynchronous operations.
+
+2.Create a function to find the intersection of two arrays in JavaScript. 
+  This problem evaluates your knowledge of arrays, loops, and algorithms for finding common elements efficiently.
+
+3.Design a reusable higher-order component (HOC) in React. Demonstrate your understanding of advanced React concepts like HOCs, component composition, and props manipulation.
+
+4.Implement a debounce function in JavaScript. Show your understanding of closures and functional programming concepts by creating a function that delays invoking another function until a certain amount of time has passed without additional invocations.
+
+5.Write an algorithm to reverse a linked list in JavaScript. Assess your knowledge of data structures and algorithms, as well as your ability to work with pointers and manipulate linked list nodes.
+
+6.Build a feature in React for handling form validation with custom hooks. Evaluate your knowledge of React hooks, form handling, and validation techniques using custom hooks.
+
+7.Implement a binary search algorithm in JavaScript. Showcase your understanding of efficient searching algorithms and their implementation in JavaScript.
+
+8.Develop a simple React application that manages state using Context API or Redux. This task evaluates your ability to manage state globally in React applications and your familiarity with state management libraries.
+
+9.Create a function to flatten a nested array in JavaScript. Evaluate your understanding of array manipulation and recursion by implementing a function that flattens an array containing nested arrays.
+
+10.Build a React component for pagination functionality using props for managing page state. Assess your ability to design reusable and scalable components in React.
